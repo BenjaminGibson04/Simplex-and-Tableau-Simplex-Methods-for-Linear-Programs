@@ -1,5 +1,5 @@
 # Simplex-and-Tableau-Simplex-Methods-for-Linear-Programs
-Contains the Simplex method and Tableau Simplex method for solving linear programs in standard form.
+Contains the Simplex method and Tableau Simplex method for solving linear programs in standard form, in linear optimization.
 
 Code written in Python
 
